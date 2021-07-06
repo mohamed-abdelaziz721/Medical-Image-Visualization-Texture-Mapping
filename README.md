@@ -142,3 +142,8 @@ so we decided to just let it as is from 0 to 100 just like the value of the slid
 ### Issue-3
 
 The Sliders for Ray Casting Rendering should be disabled on the Surface mode and vice versa, but again, it would take a lot of time
+
+## Contributors 
+- Ramadan Ibrahim
+- Mohamed Abdelaziz 
+- Mohamed Seyam
